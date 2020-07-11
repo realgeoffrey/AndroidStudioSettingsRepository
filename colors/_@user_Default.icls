@@ -1,0 +1,19 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2020-07-11T23:53:23</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">4.0.0.16</property>
+    <property name="modified">2020-07-12T00:12:17</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Monospaced" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </console-font>
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+</scheme>
