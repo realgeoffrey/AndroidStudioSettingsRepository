@@ -13,6 +13,9 @@
     <option name="CARET_BLINKING_PERIOD" value="400" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+  </component>
   <component name="XmlEditorOptions">
     <option name="insertQuotesForAttributeValue" value="true" />
   </component>
