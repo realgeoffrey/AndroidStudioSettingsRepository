@@ -6,4 +6,7 @@
     <option name="showTipsOnStartup" value="false" />
     <option name="useSafeWrite" value="false" />
   </component>
+  <component name="Registry">
+    <entry key="external.system.auto.import.disabled" value="true" />
+  </component>
 </application>
