@@ -15,6 +15,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="Key Promoter X">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="Subversion">
           <value>
             <PluginData>
@@ -46,6 +57,18 @@
                 <set>
                   <option value="org.jetbrains.android" />
                   <option value="org.jetbrains.kotlin" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="cn.yiiguxing.plugin.translate">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
                 </set>
               </option>
               <option name="enabled" value="false" />
@@ -233,9 +256,44 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="lermitage.intellij.iconviewer">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="org.jetbrains.plugins.github">
           <value>
             <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="ru.adelf.idea.dotenv">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="some.awesome">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
               <option name="enabled" value="false" />
             </PluginData>
           </value>

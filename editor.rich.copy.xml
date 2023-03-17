@@ -1,5 +1,6 @@
 <application>
   <component name="EditorRichCopySettings">
     <option name="enabled" value="false" />
+    <option name="schemeName" value="Darcula" />
   </component>
 </application>
